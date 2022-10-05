@@ -1,4 +1,4 @@
-# chores
+# Chores
  A todo app for Android and IOS! 
 
 ## Roadmap
